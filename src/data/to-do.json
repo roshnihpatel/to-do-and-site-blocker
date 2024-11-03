@@ -1,0 +1,37 @@
+[
+    {
+      "id": "0175d1f0-a8c6-41bf-8d02-df5734d829a4",
+      "title": "complete the to do functionality",
+      "completed": true
+    },
+    {
+      "id": "83c7ba2f-7392-4d7d-9e23-35adbe186046",
+      "title": "use chrome.storage api",
+      "completed": false
+    },
+    {
+      "id": "a11e3995-b0bd-4d58-8c48-5e49ae7f7f23",
+      "title": "add the block site fuctionality",
+      "completed": false
+    },
+    {
+        "id": "dccb9728-9279-438f-bb8e-9c2548528b9f",
+        "title": "push to github",
+        "completed": false
+    },
+    {
+        "id": "7b1c8b2f-b7ff-44e6-a150-9d10d0ed5206",
+        "title": "add to chrome store",
+        "completed": false
+    },
+    {
+        "id": "2bd8099c-9a1c-45e1-853d-228128e54d3f",
+        "title": "add to portfolio",
+        "completed": false
+    },
+    {
+        "id": "a67605f1-e632-40f7-a1fd-2730b6dc69bb",
+        "title": "add write up",
+        "completed": false
+    }
+  ]
